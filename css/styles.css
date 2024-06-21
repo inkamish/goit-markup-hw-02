@@ -1,0 +1,78 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #2E2F42;
+    background-color: white;
+}
+
+a {
+    color: currentColor;
+    text-decoration: none;
+    font-style: normal;
+}
+
+h1 {
+    font-size: 56px;
+    line-height: 1.07143;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+h3 {
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.main-button {
+    color: white;
+    background-color: #4D5AE5;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+}
+
+.main-button:hover {
+    background-color: #404BBF;
+}
+
+.navigation-list a:hover,
+.navigation-list a:active,
+.contacts a:hover,
+.contacts a:active {
+    color: #404BBF;
+}
+
+.navigation-list a {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.contacts {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
