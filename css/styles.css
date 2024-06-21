@@ -1,6 +1,6 @@
 body {
     font-family: "Roboto", sans-serif;
-    color: #2E2F42;
+    color: #434455;
     background-color: white;
 }
 
@@ -84,7 +84,7 @@ ul {
     color: #2e2f42;
 }
 
-.contacts {
+.contacts-item {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -113,6 +113,10 @@ ul {
 }
 
 .team-member-name {
+    font-size: 16px;
+}
+
+.team-member-text {
     font-size: 16px;
 }
 
