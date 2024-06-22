@@ -6,7 +6,6 @@ body {
 
 a {
     text-decoration: none;
-    font-style: normal;
     color: currentColor;
 }
 
@@ -46,13 +45,17 @@ ul {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+    color: #2e2f42;
 }
 
 .navigation-menu .link:hover,
 .navigation-menu .link:active,
 .navigation-menu .link:focus {
     color: #404BBF;
+}
+
+.contacts {
+    font-style: normal;
 }
 
 .contacts .link {
